@@ -1,6 +1,6 @@
 # Word Guessing Game 🎯
 
-[![Play Live Demo](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=brightgreen&up_message=live&url=https%3A//shubhiroy.github.io/word-guessing-game/)](https://shubhiroy.github.io/word-guessing-game/)
+[![Play Live Demo](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=brightgreen&up_message=live&url=https%3A//shubhiroy.github.io/word-guessing-game/)](https://shubhiiroy.github.io/word-guessing-game/)
 
 A fun and interactive word guessing game inspired by Wordle! Test your vocabulary and deduction skills by guessing the secret word with visual feedback on each attempt.
 
